@@ -63,7 +63,7 @@ To simulate or run this project:
     * Install Proteus for circuit simulation.
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/electronic-voting-system.git](https://github.com/YourUsername/electronic-voting-system.git)
+    git clone [https://github.com/Alirazbtw/electronic-voting-system.git](https://github.com/Alirzabtw/electronic-voting-system.git)
     cd electronic-voting-system
     ```
 3.  **Open in Proteus:**
